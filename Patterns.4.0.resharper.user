@@ -1,0 +1,226 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/d:Framework/f:RegularStore.cs" caret="453" scrollPosition="0|48" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/d:UndoableCommands/f:IUndoableCommand.cs" caret="0" scrollPosition="0|0" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/d:UndoableCommands/f:LightsCommand.cs" caret="0" scrollPosition="0|18" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/d:UndoableCommands/f:ToggleAcCommand.cs" caret="0" scrollPosition="0|6" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/d:UndoableCommands/f:TurnOnOffCommand.cs" caret="0" scrollPosition="0|3" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/d:UndoableCommands/f:MacroCommand.cs" caret="297" scrollPosition="0|0" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/d:Framework/f:UpgradedStore.cs" caret="473" scrollPosition="0|36" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/f:Program.cs" caret="1257" scrollPosition="0|24" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/d:Framework/f:IBeverage.cs" caret="0" scrollPosition="0|0" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/d:Framework/f:DarkRoast.cs" caret="0" scrollPosition="0|0" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/d:Framework/f:HouseBlend.cs" caret="0" scrollPosition="0|0" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/d:Framework/f:Beverage.cs" caret="659" scrollPosition="0|0" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:Framework/f:StoreType.cs" caret="0" scrollPosition="0|0" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:Framework/f:BeverageType.cs" caret="0" scrollPosition="0|0" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:NoFactory/f:CoffeeStore.cs" caret="102" scrollPosition="0|0" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:Factory/f:IFactory.cs" caret="0" scrollPosition="0|0" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:Factory/f:RegularFactory.cs" caret="0" scrollPosition="0|3" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:Factory/f:ExoticFactory.cs" caret="0" scrollPosition="0|3" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:Factory/f:CoffeeStoreWithFactory.cs" caret="0" scrollPosition="0|0" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="342" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:Framework/f:IBeverage.cs" caret="0" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:Framework/f:HouseBlend.cs" caret="0" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:Framework/f:DarkRoast.cs" caret="0" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:NoDecoratorFramework/f:INoDecoratorBeverage.cs" caret="0" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:NoDecoratorFramework/f:NoDecoratorBeverage.cs" caret="0" scrollPosition="0|36" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:NoDecoratorFramework/f:DarkRoastNoDecorator.cs" caret="0" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:Decorator/f:MilkDecorator.cs" caret="334" scrollPosition="0|6" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:Decorator/f:SugarDecorator.cs" caret="0" scrollPosition="0|18" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="547" scrollPosition="0|3" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="535" scrollPosition="0|10" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="847" scrollPosition="0|16" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="1306" scrollPosition="0|16" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="1286" scrollPosition="0|16" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="1054" scrollPosition="0|16" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="1706" scrollPosition="0|36" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="1915" scrollPosition="0|36" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="2171" scrollPosition="0|42" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="2380" scrollPosition="0|42" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="1497" scrollPosition="0|30" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/f:Program.cs" caret="310" scrollPosition="0|0" />
+      <File id="4896BF70-6CC1-4C0F-A3C3-C2BB0A6A1D46/d:Factory/f:ExoticFactory.cs" caret="830" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:Framework/f:DarkRoast.cs" caret="380" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:Framework/f:DarkRoast.cs" caret="133" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:NoDecoratorFramework/f:DarkRoastNoDecorator.cs" caret="430" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/d:NoDecoratorFramework/f:DarkRoastNoDecorator.cs" caret="148" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="392" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="792" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="725" scrollPosition="0|0" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="1336" scrollPosition="0|24" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="1443" scrollPosition="0|24" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="1594" scrollPosition="0|24" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="438" scrollPosition="0|19" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="1902" scrollPosition="0|43" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/d:Framework/f:DarkRoast.cs" caret="137" scrollPosition="0|0" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/d:Framework/f:DarkRoast.cs" caret="88" scrollPosition="0|0" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/d:Framework/f:DarkRoast.cs" caret="393" scrollPosition="0|0" />
+      <File id="C6314161-CBF6-4446-AB00-727605D95B88/f:Program.cs" caret="346" scrollPosition="0|0" />
+      <File id="BB56628C-5774-4A31-A957-7EB1D700A8B3/f:Program.cs" caret="243" scrollPosition="0|9" />
+      <File id="5237E426-A8D9-4ECD-9985-97D80802DFA0/f:Program.cs" caret="256" scrollPosition="0|3" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="void" priority="34" />
+      <Item value="public" priority="28" />
+      <Item value="IApplication" priority="4" />
+      <Item value="Console" priority="15" />
+      <Item value="WriteLine" priority="9" />
+      <Item value="bool" priority="4" />
+      <Item value="double" priority="7" />
+      <Item value="IStore" priority="3" />
+      <Item value="TurnOnCommand" priority="1" />
+      <Item value="private" priority="20" />
+      <Item value="application" priority="1" />
+      <Item value="ApplicationException" priority="0" />
+      <Item value="TurnOn" priority="0" />
+      <Item value="SetAcCommand" priority="0" />
+      <Item value="Store" priority="12" />
+      <Item value="store" priority="8" />
+      <Item value="SetAC" priority="2" />
+      <Item value="Temp" priority="0" />
+      <Item value="temp" priority="1" />
+      <Item value="LightsOn" priority="1" />
+      <Item value="true" priority="2" />
+      <Item value="CurrentTemp" priority="1" />
+      <Item value="LightsCommand" priority="0" />
+      <Item value="TurnOnLights" priority="0" />
+      <Item value="TurnOffLights" priority="1" />
+      <Item value="abstract" priority="3" />
+      <Item value="RegularStore" priority="2" />
+      <Item value="List" priority="3" />
+      <Item value="override" priority="3" />
+      <Item value="OpenStore" priority="1" />
+      <Item value="new" priority="21" />
+      <Item value="List&lt;ICommand&gt;" priority="1" />
+      <Item value="CloseCommands" priority="1" />
+      <Item value="ICommand" priority="1" />
+      <Item value="OpenCommands" priority="1" />
+      <Item value="Add" priority="2" />
+      <Item value="command" priority="4" />
+      <Item value="foreach" priority="2" />
+      <Item value="in" priority="2" />
+      <Item value="Execute" priority="1" />
+      <Item value="var" priority="13" />
+      <Item value="AddOpenCommand" priority="1" />
+      <Item value="CoffeeGrinder" priority="0" />
+      <Item value="CoffeeMaker" priority="0" />
+      <Item value="coffeeGringer" priority="0" />
+      <Item value="coffeeMaker" priority="0" />
+      <Item value="ReadLine" priority="6" />
+      <Item value="CloseStore" priority="0" />
+      <Item value="static" priority="3" />
+      <Item value="UseRegularStore" priority="0" />
+      <Item value="Application" priority="0" />
+      <Item value="TurnOff" priority="0" />
+      <Item value="PreviousTemp" priority="1" />
+      <Item value="UpgradedStore" priority="0" />
+      <Item value="MacroCommand" priority="1" />
+      <Item value="IUndoableCommand" priority="2" />
+      <Item value="Comparer" priority="0" />
+      <Item value="List&lt;IUndoableCommand&gt;" priority="0" />
+      <Item value="Commands" priority="0" />
+      <Item value="Undo" priority="0" />
+      <Item value="macro" priority="0" />
+      <Item value="AddCommand" priority="0" />
+      <Item value="string" priority="13" />
+      <Item value="interface" priority="2" />
+      <Item value="ISullyObserver" priority="4" />
+      <Item value="ISully" priority="0" />
+      <Item value="Sully" priority="0" />
+      <Item value="Observers" priority="3" />
+      <Item value="List&lt;ISullyObserver&gt;" priority="0" />
+      <Item value="observer" priority="0" />
+      <Item value="Update" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="location" priority="0" />
+      <Item value="NotifyObservers" priority="0" />
+      <Item value="IConsultant" priority="0" />
+      <Item value="return" priority="11" />
+      <Item value="Consultant" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="name" priority="0" />
+      <Item value="IProjectManager" priority="0" />
+      <Item value="ProjectManager" priority="0" />
+      <Item value="sully" priority="8" />
+      <Item value="AddObserver" priority="2" />
+      <Item value="landon" priority="0" />
+      <Item value="SetLocation" priority="3" />
+      <Item value="RemoveObserver" priority="1" />
+      <Item value="IBeverage" priority="14" />
+      <Item value="INoDecoratorBeverage" priority="0" />
+      <Item value="HasMilk" priority="0" />
+      <Item value="HasSugar" priority="2" />
+      <Item value="if" priority="2" />
+      <Item value="result" priority="2" />
+      <Item value="protected" priority="0" />
+      <Item value="Empty" priority="0" />
+      <Item value="GetCondimentDescription" priority="0" />
+      <Item value="GetCondimentPrice" priority="0" />
+      <Item value="MilkDecorator" priority="0" />
+      <Item value="beverage" priority="1" />
+      <Item value="DecoratedBeverage" priority="1" />
+      <Item value="GetDescription" priority="2" />
+      <Item value="GetPrice" priority="2" />
+      <Item value="amazon1" priority="2" />
+      <Item value="AddMilk" priority="0" />
+      <Item value="AddSugar" priority="0" />
+      <Item value="HouseBlendNoDecorator" priority="0" />
+      <Item value="NoDecorator" priority="0" />
+      <Item value="AmazonRoastNoDecorator" priority="0" />
+      <Item value="amazon" priority="1" />
+      <Item value="Beverage" priority="1" />
+      <Item value="houseBlend" priority="0" />
+      <Item value="Prepare" priority="1" />
+      <Item value="AmazonRoast" priority="3" />
+      <Item value="amazonRoast" priority="0" />
+      <Item value="BeverageType" priority="5" />
+      <Item value="HouseBlend" priority="4" />
+      <Item value="DarkRoast" priority="1" />
+      <Item value="Roast" priority="2" />
+      <Item value="StoreType" priority="1" />
+      <Item value="switch" priority="1" />
+      <Item value="storeType" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="beverageType" priority="1" />
+      <Item value="break" priority="2" />
+      <Item value="ExoticStore" priority="1" />
+      <Item value="coffee" priority="3" />
+      <Item value="SpecialHouseBlend" priority="1" />
+      <Item value="IFactory" priority="1" />
+      <Item value="null" priority="2" />
+      <Item value="CoffeeStoreWithFactory" priority="0" />
+      <Item value="Factory" priority="2" />
+      <Item value="GetCoffee" priority="1" />
+      <Item value="RegularFactory" priority="0" />
+      <Item value="ExoticFactory" priority="1" />
+      <Item value="UseNonFactory" priority="0" />
+      <Item value="UseFactory" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

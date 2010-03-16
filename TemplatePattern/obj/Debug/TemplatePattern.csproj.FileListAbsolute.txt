@@ -1,0 +1,5 @@
+G:\Patterns\TemplatePattern\bin\Debug\TemplatePattern.exe
+G:\Patterns\TemplatePattern\bin\Debug\TemplatePattern.pdb
+G:\Patterns\TemplatePattern\obj\Debug\ResolveAssemblyReference.cache
+G:\Patterns\TemplatePattern\obj\Debug\TemplatePattern.exe
+G:\Patterns\TemplatePattern\obj\Debug\TemplatePattern.pdb

@@ -1,0 +1,7 @@
+G:\Patterns\FactoryPattern\bin\Debug\FactoryPattern.exe
+G:\Patterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
+G:\Patterns\FactoryPattern\obj\Debug\ResolveAssemblyReference.cache
+G:\Patterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+G:\Patterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
+H:\Patterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+H:\Patterns\FactoryPattern\obj\Debug\FactoryPattern.pdb

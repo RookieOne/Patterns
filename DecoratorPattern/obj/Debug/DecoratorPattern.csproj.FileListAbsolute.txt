@@ -1,0 +1,5 @@
+G:\Patterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+G:\Patterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+G:\Patterns\DecoratorPattern\obj\Debug\ResolveAssemblyReference.cache
+G:\Patterns\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+G:\Patterns\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

@@ -1,0 +1,10 @@
+H:\Patterns\CommandPattern\bin\Debug\CommandPattern.exe
+H:\Patterns\CommandPattern\bin\Debug\CommandPattern.pdb
+H:\Patterns\CommandPattern\obj\Debug\ResolveAssemblyReference.cache
+H:\Patterns\CommandPattern\obj\Debug\CommandPattern.exe
+H:\Patterns\CommandPattern\obj\Debug\CommandPattern.pdb
+G:\Patterns\CommandPattern\obj\Debug\CommandPattern.exe
+G:\Patterns\CommandPattern\obj\Debug\CommandPattern.pdb
+G:\Patterns\CommandPattern\bin\Debug\CommandPattern.exe
+G:\Patterns\CommandPattern\bin\Debug\CommandPattern.pdb
+G:\Patterns\CommandPattern\obj\Debug\ResolveAssemblyReference.cache
